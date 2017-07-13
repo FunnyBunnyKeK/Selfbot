@@ -1,0 +1,109 @@
+Selfbot by appu1232
+
+CogDownloading:
+  cog             Manage custom cogs from ASCII. >help cog for more information.
+Customcmds:
+  customcmds      Lists all customcmds. >help customcmds for more info
+  remove          Remove a customcmd. >help remove for more info.
+  add             Add a new customcmd. >help add for more info
+Debugger:
+  load            Load a module
+  debug           Shows useful informations to people that try to help you.
+  unload          Unload a module
+  clearconsole    Clear the console of any errors or other messages.
+  py              Python interpreter. See the wiki for more info.
+EmbedShell:
+  shell           Head on impact with an interactive python shell.
+Fun:
+  react           Add letter(s) as reaction to previous message. Ex: >react hot
+  regional        Replace letters with regional indicator emojis
+  textflip        Flip given text.
+  space           Add n spaces between each letter. Ex: >space 2 thicc
+  l2g             Creates a lmgtfy link. Ex: >l2g how do i become cool.
+  dice            Roll dice. Optionally input # of dice and # of sides. Ex: >...
+  choose          Choose randomly from the options you give. >choose this | that
+  vowelreplace    Replaces all vowels in a word with a letter
+  8ball           Let the 8ball decide your fate. Ex: >8ball Will I get good?
+  ascii           Convert text to ascii art. Ex: >ascii stuff >help ascii for...
+Google:
+  g               Google web search. Ex: >g what is discordapp?
+  i               Google image search. >i Lillie pokemon sun and moon
+Imagedump:
+  imagedump       Mass downloads images from a channel. >help imagedump for i...
+KeywordLogger:
+  notify          Manage notifier bot. See wiki for more info.
+  webhook2        Set up optional second webhook for user follows. See wiki f...
+  webhook         Set up a webhook for keyword logging. See wiki for more info
+  log             Get info about keyword logger. See the README for more info.
+Lockdown:
+  unlock          Unlock message sending in the channel.
+  mod             Manage list of moderator roles for the >lockdown command. >...
+  lockdown        Lock message sending in the channel.
+Mal:
+  mal             Search MyAnimeList for an anime/manga. Ex: >mal anime Stein...
+Misc:
+  avatar          Rotate avatars. See wiki for more info.
+  editembed       Edit an embedded message.
+  quote           Quote a message. >help quote for more info.
+  setavatar       Set an avatar from a URL: Usage >setavatar <url_to_image>
+  embedcolor      Set color (hex) of a embeds. Ex: >embedcolor 000000
+  game            Set game/stream. Ex: >game napping >help game for more info
+  embed           Embed given text. Ex: Do >embed for more help
+  ping            Get response time.
+  quotecolor      Set color (hex) of a quote embed.
+  about           Links to the bot's github page.
+  afk             Set your Discord status for when you aren't online. Ex: >af...
+  stats           Bot stats.
+Mod:
+  unmute          Unmutes a user (if you have the permission).
+  mute            Chat mutes a user (if you have the permission).
+  purge           Purge last n msgs or n msgs with a word. >help purge for mo...
+  kick            Kicks a user (if you have the permission).
+  ban             Bans a user (if you have the permission).
+  softban         Softbans a user (if you have the permission).
+Server:
+  server          Various info about the server. >help server for more info.
+Todo:
+  todo            Manage your to-do list. >help todo for more information.
+Translate:
+  translate       Translates words from one language to another. Do >help tra...
+Userinfo:
+  info            Get user info. Ex: >info @user
+Utility:
+  sauce           Find source of image. Ex: >sauce http://i.imgur.com/NIq2U67...
+  spoiler         Spoiler tag. Ex: >spoiler Some book | They get married.
+  selfdestruct    Builds a self-destructing message. Ex: >sd 5
+  now             Date time module.
+  emoji           Embed or copy a custom emoji (from any server).
+  poll            Create a strawpoll. Ex: >poll Favorite color = Blue | Red |...
+  timezone        Set preferred timezone. Use `>timezonelist` for full list o...
+  uni             Convert to unicode emoji if possilbe. Ex: >uni :eyes:
+  timezonelist    List of all available timezones
+  calc            Simple calculator. Ex: >calc 2+2
+  roles           Check the roles of a user.
+  gist            Posts to gist
+  cmdprefix       Set command prefix, needs a reboot to activate
+  botprefix       Set bot prefix
+  code            Write text in code format
+  hastebin        Post to Hastebin.
+  youtube         Search for videos on YouTube.
+  delete          Deletes the last message sent or n messages sent. Ex: >d 5
+  link            
+  animate         Play an animation from a text file. >help animate for more ...
+  customcmdprefix Set command prefix, needs a reboot to activate
+  ud              Pull data from Urban Dictionary. Use >help ud for more info...
+  nickname        Change your nickname on a server. Leave empty to remove nick.
+  xkcd            Pull comics from xkcd.
+  whoisplaying    Check how many people are playing a certain game.
+  messagedump     Dump messages.
+  time            Show current time
+  date            Show current date
+?No Category:
+  help            Shows this message.
+  restart         Restarts the bot.
+  quit            Quits the bot.
+  reload          Reloads all modules.
+  update          Update the bot if there is an update available.
+
+Type >help command for more info on a command.
+You can also type >help category for more info on a category.
